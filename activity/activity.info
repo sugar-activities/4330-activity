@@ -1,0 +1,7 @@
+[Activity]
+name = Juegos Flash
+activity_version = 2
+service_name = org.laptop.JAMactivityFlash
+class = JAMactivityFlash.JAMactivityFlash
+icon = JAMactivityFlash
+show_launcher = yes
